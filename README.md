@@ -12,6 +12,12 @@ See [top page](https://i05nagai.github.io/slides_reveal/).
 * [theory_and_algorithms_for_bandit_problems_chap8](http://i05nagai.github.io/slides_reveal/theory_and_algorithms_for_bandit_problems_chap8/)
     * バンディット問題の理論とアルゴリズム8章
 
+## Usage
+
+### Run local server
+1. execute `npm install` in `reveal.js`
+2. execute `bash npm_start.sh` in root of repository
+
 ## Licence
 
 [MIT](https://opensource.org/licenses/MIT)
