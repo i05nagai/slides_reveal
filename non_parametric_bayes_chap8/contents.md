@@ -482,8 +482,8 @@ $$
     := \mathbb{E}[e^{-tX}] 
     = 
     \begin{cases}
-        \displaystyle \sum\_{x \in S}e^{-tx}P(\\{x\\}) \quad (\mathrm{離散値のとき}) \\\
-        \displaystyle \int\_{S}e^{-tx}p(x) \,dx  \quad (\mathrm{密度関数が存在する時}) \\\
+        \displaystyle \sum\_{x \in S}e^{-tx}P(\\{x\\}) \quad (\text{discrete value}) \\\
+        \displaystyle \int\_{S}e^{-tx}p(x) \,dx  \quad (\text{exists p.d.f.}) \\\
         \mathbb{E}[e^{-tX}] \quad (\mathrm{otherwise})
     \end{cases}
 \end{equation}
